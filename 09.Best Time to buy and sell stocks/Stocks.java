@@ -7,6 +7,6 @@ public class Stocks{
                 profit += prices[i] - prices[i-1];
             }
         }
-        System.out.println(profit);
+        System.out.println(profit); 
     }
 }
